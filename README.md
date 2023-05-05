@@ -2,7 +2,9 @@
 
 👴 After many years of employment in the armed forces, the nuclear fusion and aerospace industries, I am now wetting my toes in learning computer science. 
 
-😵 Why? You might wonder! Well, the simple fact is, once we get to a certain age, you are silently struck off and you become unwanted. Despite numerous attempts in getting back, it has been a struggle. So, not willing to give up and becoming rusty, I've taken the initiative to learning computer science.  I had took up Python and soon after Kotlin but after a while, decided to take up html, css and js first. 
+😵 Why? You might wonder! Well, the simple fact is, once we get to a certain age, you are silently struck off and you become unwanted. 
+
+🌻So, not willing to give up and becoming rusty and fade away, I've taken the initiative to learning computer science, testing Python and soon after Kotlin but after a while, took up advises of super coders to learn html, css and js first. 
 
 ✨🌻 I am currently fully concentrating on html and css and taking in as much as I can and become confident in using them. Hopefully, some day soon, I will be in a position to collaborate with you brilliant people out there and become useful in some way.  
 
