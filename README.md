@@ -1,8 +1,8 @@
 👋👀 Hi all, I’m @pthapa61
 
-👴 After many years of employment in the armed forces, the nuclear fusion and aerospace industries, I am now wetting my toes in learning computer science. 
+👴 After many years of professional employment, I am now wetting my toes in learning computer science. 
 
-😵 Why? You might wonder! Well, the simple fact is, once we get to a certain age, you are silently struck off and you become unwanted. 
+😵 Why? You might wonder! Well, the simple fact is, once we get to a certain age, you are silently struck off and you become unwanted. Plus, taking a career break to take care of your family can also turn against you!
 
 🌻So, not willing to give up and becoming rusty and fade away, I've taken the initiative to learning computer science, testing Python and soon after Kotlin but after a while, took up advises of super coders to learn html, css and js first. 
 
